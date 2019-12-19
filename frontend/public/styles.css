@@ -1,0 +1,51 @@
+body {
+  background-color: #fafafa;
+}
+
+.Home,
+.PostDetail {
+  padding-bottom: 35px;
+}
+
+.Header {
+  margin-bottom: 3rem !important;
+}
+
+.error {
+  color: red !important;
+}
+
+.action-icons > i {
+  margin: 0 10px;
+}
+
+.loading-div {
+  padding: 100px 0px !important
+}
+
+.post-description {
+  display: inline-block;
+}
+
+.author {
+  margin-bottom: 0 !important;
+}
+
+.sticky-menu {
+  position: sticky;
+  top: 25px;
+}
+
+.user-info {
+  text-align: left;
+}
+
+.add-button {
+  width: 15rem;
+  margin: 20px 0;
+  display: block !important;
+}
+
+.add-button > div {
+  width: 15rem;
+}
